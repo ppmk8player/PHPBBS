@@ -1,4 +1,6 @@
 <?php
+
+// Coptright 2025 ppmk8player This is Message By Not Delete
 function h($s){ return htmlspecialchars($s, ENT_QUOTES, 'UTF-8'); }
 $data_dir = __DIR__ . '/data';
 ?>
